@@ -15,7 +15,7 @@ pipeline {
         }
       }
     }
-    stage('') {
+    stage('done') {
       steps {
         sleep 10
       }
